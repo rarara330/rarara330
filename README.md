@@ -1,36 +1,42 @@
-# 👨‍💻 Rator612 | Networking & Cybersecurity Enthusiast
+<!-- HEADER: banner generado con capsule-render -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:08f,100:0ff&height=180&section=header&text=Hola%2C+bienvenido%21&fontSize=40&animation=twinkling" alt="banner"/>
+</div>
 
-He enfocado mi perfil hacia la gestión de redes y la seguridad informática. Me apasiona entender cómo viajan los datos y cómo protegerlos.
+<div align="center">
+  <!-- Avatar redondeado con borde neón y sombra -->
+  <img src="https://github.com/rarara330.png?size=460" alt="avatar" style="width:160px;height:160px;border-radius:50%;border:4px solid #00e5ff;box-shadow:0 12px 30px rgba(0,229,255,0.12);"/>
 
-### 🌐 Conectividad y Redes
-* 📡 Configuración de arquitecturas de red.
-* 🛠️ Administración de sistemas y protocolos (TCP/IP, DNS, VPN).
-* 🛡️ Implementación de medidas de seguridad y endurecimiento de sistemas (Hardening).
-
-### 🛠️ Tecnologías y Herramientas
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-
-### 📊 Estadísticas de GitHub
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=rarara330&show_icons=true&theme=radical&hide_border=true" alt="Estadísticas de rarara330" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rarara330&layout=compact&theme=radical&hide_border=true" alt="Lenguajes más usados" height="150" />
-</p>
-
-### 🛡️ Proyectos de Ciberseguridad
-* **[Proyecto A]** - Breve descripción de una herramienta de red o script de seguridad.
-* **[Proyecto B]** - Auditoría o laboratorio de red.
+  <!-- Puedes eliminar la línea siguiente si prefieres solo la imagen -->
+  <!-- <p style="margin-top:8px;color:#9aaedb">Estudiante · Desarrollador</p> -->
+</div>
 
 ---
 
-### 📫 Cómo contactarme
-Para cualquier colaboración o consulta técnica, puedes contactarme a través de mi perfil de GitHub.
+## Sobre mí
+- 🎓 Estudiante de ciclo superior ASIX.
+- 🧠 Me gusta resolver problemas con C y C++, crear scripts y herramientas con Python y diseñar interfaces sencillas con HTML/CSS.
+- 🔒 Mis proyectos principales son privados por ahora, pero estoy aprendiendo y mejorando con cada práctica.
 
-<p align="left">
-  <a href="mailto:TU_CORREO_AQUÍ">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-</p>
+## Stack principal
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="48" height="48" title="C" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="48" height="48" title="C++" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="48" height="48" title="Python" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="48" height="48" title="HTML" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="48" height="48" title="CSS" />
+</div>
+
+---
+
+## Qué estoy aprendiendo ahora
+- Uso avanzado de punteros y estructuras en C/C++.
+- Automatización y scripts útiles con Python.
+- Buenas prácticas de CSS y diseño responsivo.
+- Flujo de trabajo con Git para colaborar sin líos.
+
+---
