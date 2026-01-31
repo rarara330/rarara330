@@ -1,24 +1,19 @@
-<!-- HEADER: banner generado con capsule-render -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:08f,100:0ff&height=180&section=header&text=Hola%2C+bienvenido%21&fontSize=40&animation=twinkling" alt="banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:08f,100:0ff&height=180&section=header&text=Hello,+Welcome!&fontSize=40&animation=twinkling" alt="banner"/>
 </div>
 
 <div align="center">
-  <!-- Avatar redondeado con borde neón y sombra -->
   <img src="https://github.com/rarara330.png?size=460" alt="avatar" style="width:160px;height:160px;border-radius:50%;border:4px solid #00e5ff;box-shadow:0 12px 30px rgba(0,229,255,0.12);"/>
-
-  <!-- Puedes eliminar la línea siguiente si prefieres solo la imagen -->
-  <!-- <p style="margin-top:8px;color:#9aaedb">Estudiante · Desarrollador</p> -->
 </div>
 
 ---
 
-## Sobre mí
-- 🎓 Estudiante de ciclo superior ASIX.
-- 🧠 Me gusta resolver problemas con C y C++, crear scripts y herramientas con Python y diseñar interfaces sencillas con HTML/CSS.
-- 🔒 Mis proyectos principales son privados por ahora, pero estoy aprendiendo y mejorando con cada práctica.
+## About Me
+- 🎓 ASIX (Networked Computer Systems Administration) student.
+- 🧠 I enjoy solving problems with C and C++, creating scripts and tools with Python, and designing simple interfaces with HTML/CSS.
+- 🔒 My main projects are currently private, but I am learning and improving with every practice.
 
-## Stack principal
+## Tech Stack
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="48" height="48" title="C" />
   &nbsp;
@@ -33,10 +28,10 @@
 
 ---
 
-## Qué estoy aprendiendo ahora
-- Uso avanzado de punteros y estructuras en C/C++.
-- Automatización y scripts útiles con Python.
-- Buenas prácticas de CSS y diseño responsivo.
-- Flujo de trabajo con Git para colaborar sin líos.
+## Currently Learning
+- Advanced use of pointers and structures in C/C++.
+- Automation and useful scripting with Python.
+- CSS best practices and responsive design.
+- Git workflow for seamless collaboration.
 
 ---
